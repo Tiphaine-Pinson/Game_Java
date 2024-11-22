@@ -1,0 +1,9 @@
+Health.png
+size:1024,1024
+repeat:none
+health_full
+bounds:634,2,314,711
+health_mid
+bounds:318,2,314,711
+health_zero
+bounds:2,2,314,711

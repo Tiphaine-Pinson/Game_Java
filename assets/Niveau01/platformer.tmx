@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="64" tileheight="64" infinite="0" nextlayerid="117" nextobjectid="1">
+ <layer id="1" name="Calque de Tuiles 1" width="30" height="20">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <imagelayer id="2" name="Background" offsetx="-1772.73" offsety="-1.13687e-13">
+  <image source="../Pictures_level01/background v3.png" width="4096" height="2048"/>
+ </imagelayer>
+ <imagelayer id="7" name="Background" offsetx="2323.27" offsety="-1.13687e-13">
+  <image source="../Pictures_level01/background v3.png" width="4096" height="2048"/>
+ </imagelayer>
+ <imagelayer id="102" name="Background" offsetx="6417.27" offsety="-1.13687e-13">
+  <image source="../Pictures_level01/background v3.png" width="4096" height="2048"/>
+ </imagelayer>
+ <imagelayer id="4" name="moon" offsetx="638.848" offsety="91.515" parallaxx="0.05">
+  <image source="../Pictures_level01/moon 1.png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="107" name="plateforme flottante" offsetx="688.121" offsety="1003.15" parallaxx="0.5">
+  <image source="../Pictures_level01/platform 2 v6.png" width="2048" height="1024"/>
+ </imagelayer>
+ <imagelayer id="93" name="Calque d'Images 78" offsetx="844" offsety="231.758" parallaxx="0.05">
+  <image source="../Pictures_level01/light beam 4.png" width="2048" height="2048"/>
+ </imagelayer>
+ <imagelayer id="109" name="plateforme flottante" offsetx="1218.12" offsety="1447.15" parallaxx="0.5">
+  <image source="../Pictures_level01/ivy 1.png" width="256" height="512"/>
+ </imagelayer>
+ <imagelayer id="110" name="plateforme flottante" offsetx="1376.12" offsety="1441.15" parallaxx="0.5">
+  <image source="../Pictures_level01/ivy 1.png" width="256" height="512"/>
+ </imagelayer>
+ <imagelayer id="63" name="animal" offsetx="3890.67" offsety="42.6667">
+  <image source="../Pictures_level01/crow 1.png" width="352" height="512"/>
+ </imagelayer>
+ <imagelayer id="48" name="Arriere_plan_tree" offsetx="-680" offsety="232" parallaxx="0.5">
+  <image source="../Pictures_level01/2nd plan trees silhouette 1_dark.png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="76" name="Arriere_plan_tree" offsetx="-1228.48" offsety="389.576" parallaxx="0.5">
+  <image source="../Pictures_level01/2nd plan trees silhouette 1_dark.png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="46" name="Arriere_plan_tree" offsetx="314" offsety="202" parallaxx="0.5">
+  <image source="../Pictures_level01/2nd plan trees silhouette 4_dark.png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="47" name="Arriere_plan_tree" offsetx="778" offsety="382" parallaxx="0.5">
+  <image source="../Pictures_level01/2nd plan trees silhouette 1_dark.png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="44" name="Arriere_plan_tree" offsetx="-256" offsety="194" parallaxx="0.5">
+  <image source="../Pictures_level01/2nd plan trees silhouette 3-dark.png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="103" name="Arriere_plan_tree" offsetx="1176" offsety="190" parallaxx="0.5">
+  <image source="../Pictures_level01/2nd plan silhouette 1.png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="87" name="Arriere_plan_platorme" offsetx="1485.7" offsety="935.697" parallaxx="0.5">
+  <image source="../Pictures_level01/platform 8 v6.png" width="2048" height="1024"/>
+ </imagelayer>
+ <imagelayer id="106" name="plateforme_secondplan" offsetx="1465.33" offsety="793.333" parallaxx="0.8">
+  <image source="../Pictures_level01/platform 2 v6.png" width="2048" height="1024"/>
+ </imagelayer>
+ <imagelayer id="88" name="secondPlan_Tree" offsetx="1346" offsety="300" parallaxx="0.8">
+  <image source="../Pictures_level01/2nd plan tree 3 (1).png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="94" name="Sol_secondplan" offsetx="1716.67" offsety="890" parallaxx="0.8">
+  <image source="../Pictures_level01/patch of grass.png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="104" name="Calque d'Images 88" offsetx="1588" offsety="929.333" parallaxx="0.8">
+  <image source="../Pictures_level01/tree leaves silhouette 1.png" width="512" height="512"/>
+ </imagelayer>
+ <imagelayer id="105" name="Calque d'Images 89" offsetx="1958.67" offsety="934.667" parallaxx="0.8">
+  <image source="../Pictures_level01/tree leaves silhouette 1.png" width="512" height="512"/>
+ </imagelayer>
+ <imagelayer id="90" name="secondPlan_Tree" offsetx="1726" offsety="750">
+  <image source="../Pictures_level01/glowing bush 2.png" width="512" height="512"/>
+ </imagelayer>
+ <imagelayer id="95" name="secondPlan_Tree" offsetx="1496.67" offsety="778">
+  <image source="../Pictures_level01/glowing bush 2.png" width="512" height="512"/>
+ </imagelayer>
+ <imagelayer id="96" name="Sol_secondplan" offsetx="1852.67" offsety="1062">
+  <image source="../Pictures_level01/tree leaves.png" width="512" height="512"/>
+ </imagelayer>
+ <imagelayer id="97" name="Sol_secondplan" offsetx="2248.67" offsety="1126">
+  <image source="../Pictures_level01/ivy 4.png" width="256" height="256"/>
+ </imagelayer>
+ <imagelayer id="98" name="Sol_secondplan" offsetx="2398.67" offsety="1180" parallaxx="0.8">
+  <image source="../Pictures_level01/ivy 1.png" width="256" height="512"/>
+ </imagelayer>
+ <imagelayer id="99" name="Sol_secondplan" offsetx="2584.67" offsety="1310" parallaxx="0.8">
+  <image source="../Pictures_level01/ivy 1.png" width="256" height="512"/>
+ </imagelayer>
+ <imagelayer id="100" name="Sol_secondplan" offsetx="2714.67" offsety="1414" parallaxx="0.8">
+  <image source="../Pictures_level01/ivy 1.png" width="256" height="512"/>
+ </imagelayer>
+ <imagelayer id="37" name="secondPlan_Tree" offsetx="-132" offsety="192" parallaxx="0.8">
+  <image source="../Pictures_level01/2nd plan tree 1.png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="52" name="Calque d'Images 45" offsetx="1304" offsety="368">
+  <image source="../Pictures_level01/2nd plan 1.png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="38" name="secondPlan_Tree" offsetx="310" offsety="204" parallaxx="0.8">
+  <image source="../Pictures_level01/2nd plan tree 3 (1).png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="70" name="secondPlan_Tree" offsetx="-1338.97" offsety="218.667" parallaxx="0.8">
+  <image source="../Pictures_level01/2nd plan tree 3 (1).png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="39" name="secondPlan_Tree" offsetx="436" offsety="730" parallaxx="0.8">
+  <image source="../Pictures_level01/2nd plan 2.png" width="512" height="512"/>
+ </imagelayer>
+ <imagelayer id="40" name="secondPlan_Tree" offsetx="-658" offsety="166" parallaxx="0.8">
+  <image source="../Pictures_level01/2nd plan tree 4 (1).png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="41" name="secondPlan_Tree" offsetx="-480" offsety="728" parallaxx="0.8">
+  <image source="../Pictures_level01/web 3.png" width="512" height="512"/>
+ </imagelayer>
+ <imagelayer id="42" name="secondPlan_Tree" offsetx="-290" offsety="870" parallaxx="0.8">
+  <image source="../Pictures_level01/spider 2.png" width="256" height="256"/>
+ </imagelayer>
+ <imagelayer id="53" name="secondPlan_Tree" offsetx="1410" offsety="958">
+  <image source="../Pictures_level01/stump 1.png" width="512" height="512"/>
+ </imagelayer>
+ <imagelayer id="49" name="fog_arriere" offsetx="-569.333" offsety="733.273" parallaxx="0.75">
+  <image source="../Pictures_level01/fog 2 (1).png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="79" name="fog_arriere" offsetx="-1293.58" offsety="630.243" parallaxx="0.75">
+  <image source="../Pictures_level01/fog 2 (1).png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="80" name="fog_arriere" offsetx="-820.848" offsety="327.212" parallaxx="0.75">
+  <image source="../Pictures_level01/fog 2 (1).png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="81" name="fog_arriere" offsetx="145.819" offsety="242.364" parallaxx="0.75">
+  <image source="../Pictures_level01/fog 2 (1).png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="82" name="fog_arriere" offsetx="1227.64" offsety="454.485" parallaxx="0.75">
+  <image source="../Pictures_level01/fog 2 (1).png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="50" name="fog_arriere" offsetx="180.667" offsety="681.273" parallaxx="0.75">
+  <image source="../Pictures_level01/fog 2 (1).png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="51" name="fog_arriere" offsetx="1116.67" offsety="873.273" parallaxx="0.75">
+  <image source="../Pictures_level01/fog 2 (1).png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="35" name="PatchOfGrassV2" offsetx="109.152" offsety="866.97">
+  <image source="../Pictures_level01/patch of grass 2.png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="36" name="PatchOfGrassV2" offsetx="513.152" offsety="864.97">
+  <image source="../Pictures_level01/patch of grass 2.png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="56" name="secondPlan_Tree" offsetx="980" offsety="776">
+  <image source="../Pictures_level01/bush 1.png" width="512" height="512"/>
+ </imagelayer>
+ <imagelayer id="9" name="Mushrooms" offsetx="857.576" offsety="1000">
+  <image source="../Pictures_level01/mushrooms group_blue.png" width="512" height="256"/>
+ </imagelayer>
+ <imagelayer id="10" name="Foliage" offsetx="893.939" offsety="1069.7">
+  <image source="../Pictures_level01/foliage 2.png" width="512" height="256"/>
+ </imagelayer>
+ <imagelayer id="11" name="patchOfGrass" offsetx="-581.818" offsety="875.758">
+  <image source="../Pictures_level01/patch of grass 2.png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="13" name="tree" offsetx="-463.636" offsety="287.879">
+  <image source="../Pictures_level01/tree 7.png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="26" name="PatchOfGrassV2" offsetx="3536" offsety="758">
+  <image source="../Pictures_level01/patch of grass 2.png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="27" name="PatchOfGrassV2" offsetx="1594.67" offsety="1070">
+  <image source="../Pictures_level01/patch of grass 2.png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="28" name="PatchOfGrassV2" offsetx="732.667" offsety="1078">
+  <image source="../Pictures_level01/patch of grass 2.png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="33" name="tree5v2" offsetx="893" offsety="475">
+  <image source="../Pictures_level01/tree 5.png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="34" name="buisson02" offsetx="1402.67" offsety="1236">
+  <image source="../Pictures_level01/rock 1.png" width="256" height="256"/>
+ </imagelayer>
+ <imagelayer id="67" name="Calque d'Images 57" offsetx="-1316.24" offsety="1124.12">
+  <image source="../Pictures_level01/patch of grass  3.png" width="1024" height="256"/>
+ </imagelayer>
+ <imagelayer id="12" name="rock" offsetx="-509.03" offsety="1014.3">
+  <image source="../Pictures_level01/rock 3.png" width="512" height="512"/>
+ </imagelayer>
+ <imagelayer id="22" name="Mushrooms_real" offsetx="21.697" offsety="1064.36">
+  <image source="../Pictures_level01/mushroom (2).png" width="256" height="256"/>
+ </imagelayer>
+ <imagelayer id="23" name="tree_blue" offsetx="127.697" offsety="743.333">
+  <image source="../Pictures_level01/glowing bush (1).png" width="512" height="512"/>
+ </imagelayer>
+ <imagelayer id="24" name="foliage" offsetx="-43.6364" offsety="1030.91">
+  <image source="../Pictures_level01/foliage 3.png" width="512" height="256"/>
+ </imagelayer>
+ <imagelayer id="25" name="tree03" offsetx="3628" offsety="113.333">
+  <image source="../Pictures_level01/tree 3.png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="75" name="tree03" offsetx="-1592" offsety="412">
+  <image source="../Pictures_level01/2nd plan tree 1.png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="72" name="tree5v2" offsetx="-756.667" offsety="1003.33">
+  <image source="../Pictures_level01/tree leaves.png" width="512" height="512"/>
+ </imagelayer>
+ <imagelayer id="73" name="tree5v2" offsetx="-1244.67" offsety="1024.67">
+  <image source="../Pictures_level01/tree leaves.png" width="512" height="512"/>
+ </imagelayer>
+ <imagelayer id="54" name="arbuste" offsetx="464" offsety="826">
+  <image source="../Pictures_level01/bush 2.png" width="256" height="512"/>
+ </imagelayer>
+ <imagelayer id="55" name="arbust" offsetx="608" offsety="832">
+  <image source="../Pictures_level01/bush 2.png" width="256" height="512"/>
+ </imagelayer>
+ <imagelayer id="57" name="arbuste" offsetx="-692" offsety="764">
+  <image source="../Pictures_level01/bush 1.png" width="512" height="512"/>
+ </imagelayer>
+ <imagelayer id="71" name="tree5v2" offsetx="-1288.67" offsety="323.333">
+  <image source="../Pictures_level01/tree 5.png" width="1024" height="1024"/>
+ </imagelayer>
+ <imagelayer id="84" name="Calque d'Images 26" offsetx="2056.79" offsety="1153.45">
+  <image source="../Pictures_level01/foliage 5.png" width="512" height="256"/>
+ </imagelayer>
+ <imagelayer id="101" name="Calque d'Images 26" offsetx="2112.79" offsety="1233.45">
+  <image source="../Pictures_level01/foliage 5.png" width="512" height="256"/>
+ </imagelayer>
+ <imagelayer id="85" name="Calque d'Images 26" offsetx="1628.79" offsety="1171.45">
+  <image source="../Pictures_level01/foliage 5.png" width="512" height="256"/>
+ </imagelayer>
+ <imagelayer id="65" name="platforme01" offsetx="-1331.52" offsety="1194.06">
+  <image source="../Pictures_level01/platform small 2.png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="66" name="platforme01" offsetx="-736.975" offsety="1164.48">
+  <image source="../Pictures_level01/rock 2.png" width="256" height="256"/>
+ </imagelayer>
+ <imagelayer id="5" name="platforme02" offsetx="860.06" offsety="1292.97">
+  <image source="../Pictures_level01/platform 5 v6.png" width="2048" height="512"/>
+ </imagelayer>
+ <imagelayer id="3" name="platforme01" offsetx="-551.515" offsety="1039.39">
+  <image source="../Pictures_level01/platform 8 v6.png" width="2048" height="1024"/>
+ </imagelayer>
+ <imagelayer id="6" name="platforme01" offsetx="2516.48" offsety="871.394">
+  <image source="../Pictures_level01/platform 8 v6.png" width="2048" height="1024"/>
+ </imagelayer>
+ <imagelayer id="68" name="Calque d'Images 57" offsetx="-1666.91" offsety="1049.45">
+  <image source="../Pictures_level01/platform 2 v6.png" width="2048" height="1024"/>
+ </imagelayer>
+ <imagelayer id="74" name="Calque d'Images 57" offsetx="-758.788" offsety="1282.7">
+  <image source="../Pictures_level01/rock 1.png" width="256" height="256"/>
+ </imagelayer>
+ <imagelayer id="31" name="Calque d'Images 26" offsetx="3864" offsety="830.667">
+  <image source="../Pictures_level01/foliage.png" width="256" height="256"/>
+ </imagelayer>
+ <imagelayer id="32" name="Calque d'Images 28" offsetx="4237.33" offsety="822.667">
+  <image source="../Pictures_level01/mushroom (2).png" width="256" height="256"/>
+ </imagelayer>
+ <imagelayer id="29" name="buisson" offsetx="3930.79" offsety="860.485">
+  <image source="../Pictures_level01/foliage 5.png" width="512" height="256"/>
+ </imagelayer>
+ <imagelayer id="30" name="Calque d'Images 26" offsetx="3437.33" offsety="996">
+  <image source="../Pictures_level01/foliage.png" width="256" height="256"/>
+ </imagelayer>
+ <imagelayer id="59" name="Calque d'Images 26" offsetx="480.788" offsety="1137.45">
+  <image source="../Pictures_level01/foliage.png" width="256" height="256"/>
+ </imagelayer>
+ <imagelayer id="60" name="Calque d'Images 26" offsetx="1258.79" offsety="1287.45">
+  <image source="../Pictures_level01/ivy 1.png" width="256" height="512"/>
+ </imagelayer>
+ <imagelayer id="61" name="Calque d'Images 26" offsetx="314.788" offsety="1341.45">
+  <image source="../Pictures_level01/ivy 1.png" width="256" height="512"/>
+ </imagelayer>
+ <imagelayer id="92" name="der_plat" offsetx="4679.28" offsety="769.576">
+  <image source="../Pictures_level01/platform small 2.png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="111" name="der_plat" offsetx="5669.95" offsety="751.152">
+  <image source="../Pictures_level01/platform small 1.png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="112" name="der_plat" offsetx="6797.46" offsety="790.788">
+  <image source="../Pictures_level01/platform small 2.png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="116" name="der_plat" offsetx="2098.67" offsety="1228.61">
+  <image source="../Pictures_level01/platform small 1_resize.png" width="512" height="128"/>
+ </imagelayer>
+ <imagelayer id="16" name="fog01" offsetx="-633.333" offsety="1027.27" parallaxx="1.1">
+  <image source="../Pictures_level01/fog 2 (1).png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="18" name="fog01" offsetx="193.939" offsety="1000" parallaxx="1.1">
+  <image source="../Pictures_level01/fog 2 (1).png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="19" name="fog01" offsetx="1048.48" offsety="1136.36" parallaxx="1.1">
+  <image source="../Pictures_level01/fog 2 (1).png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="20" name="fog01" offsetx="1787.88" offsety="1090.91" parallaxx="1.1">
+  <image source="../Pictures_level01/fog 2 (1).png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="21" name="fog01" offsetx="2454.55" offsety="978.788" parallaxx="1.1">
+  <image source="../Pictures_level01/fog 2 (1).png" width="1024" height="512"/>
+ </imagelayer>
+ <imagelayer id="83" name="fog01" offsetx="-1542.42" offsety="1048.48" parallaxx="1.1">
+  <image source="../Pictures_level01/fog 2 (1).png" width="1024" height="512"/>
+ </imagelayer>
+</map>

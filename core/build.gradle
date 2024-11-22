@@ -1,0 +1,30 @@
+[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+eclipse.project.name = appName + '-core'
+
+dependencies {
+  api "com.badlogicgames.box2dlights:box2dlights:$box2dlightsVersion"
+  api "com.badlogicgames.gdx-controllers:gdx-controllers-core:$gdxControllersVersion"
+  api "com.badlogicgames.gdx:gdx-ai:$aiVersion"
+  api "com.badlogicgames.gdx:gdx-box2d:$gdxVersion"
+  api "com.badlogicgames.gdx:gdx:$gdxVersion"
+  api "com.github.crykn.guacamole:core:$guacamoleVersion"
+  api "com.github.crykn.guacamole:gdx:$guacamoleVersion"
+  api "com.github.crykn:libgdx-screenmanager:$screenManagerVersion"
+  implementation "com.badlogicgames.gdx:gdx:$gdxVersion"
+  implementation "com.badlogicgames.gdx:gdx-backend-lwjgl3:$gdxVersion"
+  implementation "com.badlogicgames.gdx:gdx-backend-headless:$gdxVersion"
+  testImplementation 'junit:junit:4.13.2'
+  testImplementation 'org.mockito:mockito-core:4.10.0'
+  testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+  testImplementation 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+  runtimeOnly "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-desktop"
+  runtimeOnly "com.badlogicgames.gdx:gdx-box2d-platform:$gdxVersion:natives-desktop"
+
+  implementation "com.badlogicgames.gdx:gdx:$gdxVersion"
+  runtimeOnly "com.badlogicgames.gdx:gdx-freetype-platform:$gdxVersion:natives-desktop"
+  implementation "com.badlogicgames.gdx:gdx-freetype:$gdxVersion"
+
+  if(enableGraalNative == 'true') {
+    implementation "io.github.berstanio:gdx-svmhelper-annotations:$graalHelperVersion"
+  }
+}

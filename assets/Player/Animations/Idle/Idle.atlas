@@ -1,0 +1,9 @@
+Idle.png
+size:2048,1024
+repeat:none
+Idle
+index:2
+bounds:2,2,1000,1000
+Idle
+index:1
+bounds:1004,2,1000,1000
